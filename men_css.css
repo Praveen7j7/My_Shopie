@@ -1,0 +1,31 @@
+.bg-dark{
+   background: "./images/air-jordan-1-mid-shoes-7cdjgS.png";
+    background-color:rgb(23, 238, 73);
+    text-align: left;
+}
+/* images\air-jordan-1-mid-shoes-7cdjgS.png/ */
+/* {
+    text-align: left;
+}
+* */
+.text-muted {
+    color: #6c757d;
+  }
+#test{
+    /* text-align: left; */
+    color: black;
+    color: tomato;
+    background: "./images/air-jordan-1-mid-shoes-7cdjgS.png";
+}
+.navbarHeader{
+    display:block;
+    color: aqua;
+}
+header{
+    position:fixed;
+    width: 100%;
+    overflow:auto;
+}
+.btn btn-dark,a{
+    padding-left: 50px;
+}
